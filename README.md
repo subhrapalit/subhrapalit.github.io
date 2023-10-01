@@ -11,31 +11,35 @@
 - Develop and manage course content
 - Evaluate student's assignment
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+## Publications
+### **Subhra Palit**, Shafayet Nur, Zulikha Khatun, Maqsudur Rahman, and Md Tofael Ahmed. **"Analysis of Online Education System of Bangladesh during COVID-19 Pandemic Based on NLP and Machine Learning: Problem and Prospect."** In 2021 Emerging Trends in Industry 4.0 (ETI 4.0), pp. 1-6. IEEE, 2021.  https://doi.org/10.1109/ETI4.051663.2021.9619312
+
+> This research was conducted to mine and analyze students’ opinions about online classes during the COVID-19
+  pandemic by utilizing NLP techniques and Machine Learning algorithms. In addition, a statistical analysis was also
+  carried out to visualize the ratio of common problems faced by students and suggested possible solutions
+
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Blood Bank
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+https://blood-bank-1d1c3.web.app/static/media/banner2.90c8df8f9796361ce3d6.gif
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+> Developed a platform for blood seekers & donors, where one can easily choose their desired blood groups from
+nearby locations. On this platform blood seekers can search for a specific blood group, One can be a donor after
+being registered.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### IoT Based Smart Blind Stick
 
-![Bike Study](/assets/img/bike_study.jpeg)
+> Designed the workflow & simulation of IoT- based Smart Blind Stick for visually impaired people to guide them
+towards their respective destinations, avoiding collisions with obstacles. Coordinated with a four-member team
+during the project.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Conference | Seminar | Workshop
+- IEEE Sponsored International Conference on Emerging Trends in Industry 4.0 | @ Raigarh, Chhattisgarh, India | 19 May 2021 – 21 May 2021
+- PCIU Hackathon 2020 | @ Dept. of CSE, Port City International University 
+- Software & Game Development Workshop | @ Dept. of CSE, Port City International University
+- IT & Entrepreneur Conference | @ Digisoft Technologies
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+
